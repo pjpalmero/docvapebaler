@@ -1381,13 +1381,6 @@ body {
     flex: auto!important;
   }
 }
-.cid-rB6dz0KPkM H1 {
-  color: #ff4233;
-}
-.cid-rB6dz0KPkM .mbr-text,
-.cid-rB6dz0KPkM .mbr-section-btn {
-  color: #ffffff;
-}
 .cid-rBd1kSZKOo .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -4569,4 +4562,11 @@ body {
   .cid-rBgYrggaLv .card:not(.last-child) {
     padding-bottom: 2rem;
   }
+}
+.cid-rB6dz0KPkM H1 {
+  color: #ff4233;
+}
+.cid-rB6dz0KPkM .mbr-text,
+.cid-rB6dz0KPkM .mbr-section-btn {
+  color: #ffffff;
 }
